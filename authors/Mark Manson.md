@@ -1,8 +1,8 @@
 ---
-tags: [mentors]
+tags: [authors, mentors]
 title: Mark Manson
 created: '2021-12-17T18:20:16.539Z'
-modified: '2021-12-17T18:23:17.537Z'
+modified: '2021-12-17T18:57:58.577Z'
 ---
 
 # Mark Manson
